@@ -31,6 +31,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46393#Maan-ymp-ri-80-p-iv-ss-
 gutenberg_issued: '2014-07-24'
 gutenberg_type: Text
 identifiers:
